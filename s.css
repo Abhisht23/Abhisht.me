@@ -1,0 +1,32 @@
+html.body{
+}
+.h h2{
+font-size:45px;
+text-decoration:underline;
+font-family:Tahoma;
+font-weight:800;
+text-transform:uppercase;
+text-decoration:underline;
+letter-spacing:0.1em;
+word-spacing-1em;}
+}
+.h p{
+font-size:45px;
+font-family:Tahoma;
+font-weight:800;
+text-transform:uppercase;
+letter-spacing:0.1em;
+word-spacing-1em;
+}
+#sidebar{
+width:50%;
+padding:15px;
+float:left;
+box-sizing:border-box;
+}
+#mainbar{
+width:50%;
+float:right;
+box-sizing:border-box;
+padding-left:20px;
+}

@@ -1,0 +1,19 @@
+<html>
+ <head>
+   <title>
+My info </title>
+<link rel="stylesheet" type="text/css" href="s.css">
+ </head>
+ 
+<body background="14.jpg"><br><br><br>
+<div id="sidebar">
+<span class="h">  NAME:</span>
+<span class="p">Abhisht Jindal</span><br><br>
+<span class="h">  QUALIFICATIONS: </span>
+<span class="p"> First year B.TECH undregraduate </span> <br><br>
+</div>
+<div id="mainbar">
+<img src="8.jpg">
+</div> 
+</body>
+</html>
