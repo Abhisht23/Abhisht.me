@@ -174,6 +174,7 @@ hr.light{
   .carousel-caption .btn{
     font-size: 90%;
     padding: 4px 8px;
+    padding-bottom:5px;
   }
   .display-4{
   flow-from: 160%
