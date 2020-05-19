@@ -163,10 +163,10 @@ hr.light{
 @media (max-width: 576px) {
   .carousel-caption{
     position: absolute;
-    top:25%;
+    top:20%;
   }
   .carousel-caption h1{
-    font-size: 150%;
+    font-size: 180%;
   }
   .carousel-caption h3{
     font-size: 110%;
@@ -175,9 +175,6 @@ hr.light{
     font-size: 90%;
     padding: 4px 8px;
   }
-.carousel-indicators{
-  display: none;
-}
 .display-4{
   flow-from: 160%
 }
